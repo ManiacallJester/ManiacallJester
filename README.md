@@ -21,7 +21,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-
+  </kbd>
 
   <kbd>
     <kbd>Front-end</kbd>
