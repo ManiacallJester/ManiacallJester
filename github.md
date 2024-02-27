@@ -2,7 +2,7 @@
  ">
 </a>
 
-**About Me!**
+**Sobre mi!**
 
 - 👨🏽‍💻 Actualmente soy estudiante de la carrera de Ingenieria en Sistemas y entusiasta de la programación.
 - 🌱 Estudio a profundidad multiples tecnologias y trato de aprender creando videojuegos.
